@@ -18,8 +18,8 @@ Welcome to the **ultimate JavaScript playground**! 🎉 This assignment is where
 Here’s what your interactive bundle of joy should include:
 
 ### 1. Event Handling 🎈  
-- Button click ✅  
-- Hover effects ✅  
+- Button click ✅ *
+- Hover effects ✅*  
 - Keypress detection ✅  
 - Bonus: A secret action for a *double-click* or *long press* 🤫
 
